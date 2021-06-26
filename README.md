@@ -1,4 +1,4 @@
-# Parkinson-disease-prediction-using-machine-Learning
+# Parkinson-disease-prediction-using-machine-learning
 In this project I was trying to predict if a person will get Parkinson disease or not by using two algorithms Decision Tree and Random forest regressor
 
 Parkinson’s Disease:
